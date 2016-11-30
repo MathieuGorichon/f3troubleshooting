@@ -6,7 +6,9 @@
 	
 	
 
-                 DFU                 VCP
+## Notes
+
+DFU                 VCP
 			 ubuntu    windows   ubuntu    windows
 Lux            ok        ok        ko         ok
 diatone f3     ko        ko        ok          ?
