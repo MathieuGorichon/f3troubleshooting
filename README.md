@@ -6,6 +6,14 @@
 	
 2. No response from the bootloader, programming: FAILED
 	
+	??? trying to flash diatone f3
+	
+3. No configuration received during 10 seconds
+
+![No configuration](betaflight_not_the_good_port.png)
+
+You try to connect to the wrong port. Try another one.
+	
 	
 
 ## Notes
