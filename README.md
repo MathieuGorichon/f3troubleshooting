@@ -34,7 +34,7 @@ Désinstallation de Virtual Com Port Driver (depuis désintaller ou modifier un 
 	
 ## Apprentissage
 
-Driver USB Serial (CDC) pour avoir un port COM
-Driver WinUSB pour avoir un périphérique USB
-Attention à bien avoir une led clignotante
+* Driver USB Serial (CDC) pour avoir un port COM
+* Driver WinUSB pour avoir un périphérique USB
+* Attention à bien avoir une led clignotante
   
