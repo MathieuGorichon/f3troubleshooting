@@ -4,6 +4,8 @@
 
 	Check cable. Try with another cable, if external CP2102 module (like in diatone f3), unconnect and reconnect it.
 	
+2. No response from the bootloader, programming: FAILED
+	
 	
 
 ## Notes
