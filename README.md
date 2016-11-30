@@ -13,7 +13,9 @@ Silabs documentation and development kit : http://www.silabs.com/products/interf
 ## Vocabulaire
 
 MCU : Microcontroller unit, the f3 processor
+
 VCP : Virtual Com Port
+
 COM : COM (Communication port[1]) is the original, yet still common, name of the serial port interface on IBM PC-compatible computers. It might refer not only to physical ports, but also to virtual ports, such as ports created by Bluetooth or USB-to-serial adapters. (https://en.wikipedia.org/wiki/COM_(hardware_interface))
 
 ## Boards
