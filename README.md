@@ -1,5 +1,11 @@
 # f3troubleshooting
 
+1. No blinking led
+
+	Check cable. Try with another cable, if external CP2102 module (like in diatone f3), unconnect and reconnect it.
+	
+	
+
                  DFU                 VCP
 			 ubuntu    windows   ubuntu    windows
 Lux            ok        ok        ko         ok
